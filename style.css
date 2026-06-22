@@ -126,7 +126,7 @@ h1 {
   color: var(--navy-950);
   font-weight: var(--text-preset-2-fw);
   font-size: clamp(var(--text-preset-2-fs), 5vw, 4rem);
-  line-height: clamp(var(--text-preset-2-lh), 5vw, 3.5rem);
+  line-height: clamp(var(--text-preset-2-lh), 5vw, 3.5 rem);
 }
 
 .article-text {
